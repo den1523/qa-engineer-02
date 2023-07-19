@@ -1,2 +1,2 @@
 # qa-engineer-02
-Screen resolution testing
+Testing the page https://gusinieistorii.github.io/nuzhnapomosh_contacts/ for adaptability in different browsers and phones.
