@@ -1,0 +1,20 @@
+---
+- summary: |
+    Проверка мобильной версии страницы на iPhone 6/7/8 Plus.
+  status: pass
+
+- summary: |
+    Проверка мобильной версии страницы на Samsung Galaxy S8+.
+  status: pass
+  
+- summary: |
+    Проверка работоспособности страницы в браузере Yandex.
+  status: pass
+
+- summary: |
+    Проверка работоспособности страницы в браузере Google Chrome.
+  status: pass
+
+- summary: |
+    Проверка адаптивной версии страницы на iPad.
+  status: pass
