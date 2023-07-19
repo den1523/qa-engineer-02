@@ -18,3 +18,7 @@
 - summary: |
     Проверка адаптивной версии страницы на iPad.
   status: pass
+
+- summary: |
+    Проверка отправки формы обратной связи на iPhone X.
+  status: pass
